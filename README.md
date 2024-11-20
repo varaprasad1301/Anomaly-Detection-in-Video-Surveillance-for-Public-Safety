@@ -1,1 +1,1 @@
-# Face-Mask-Detection-Uisng-Open-CV
+Anomaly Detection in Video Surveillance for Public Safety
